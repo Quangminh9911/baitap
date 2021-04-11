@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618156779 source:c:\users\dom09\documents\ontap\bai16\main.cpp
+	<iostream>
+	<math.h>
+
